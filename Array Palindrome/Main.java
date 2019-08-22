@@ -31,3 +31,4 @@ class Main{
         
     }
 }   
+//this progrma finds palindrome
